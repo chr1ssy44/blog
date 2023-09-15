@@ -1,0 +1,7 @@
+Hey! *welcome* to my **first** blog post!😄 
+
+**MY SUMMER** 🌅 !
+
+This summer was pretty decent. I spent time with my friends 👯‍♀️ and family. The first half of summer was mostly spent with my friends. I went to Coney Island which was super fun. We literally rode like every ride 🎢, espically the Thunderbolt which made my *stomach* drop!😭 Then most days I would go to either *Brooklyn* or *Manhattan* with my friends to enjoy the scenery and spend money we don't have 😅. One of my favorite moments with my friend was when we went to **Raising Canes** for the first time becasue it just opened in Manhattan. We wanted to see what the *hype* was all about. When we went the line wasnt that long but we had to wait a liitle, then we got our food. To be honest eveything was good but, the chicken was too *salty* and *dry* 🤡. Overall it was like a **7/10**. Another fun memory was when we went to *Kalahari*! Kalahari was just a stress free trip, a great way to end off my summer, we had so much fun, alot of relaxing 🧘🏽‍♀️ and screaming because those slides were no joke😵.
+
+The second half of my summer I went to Jamaica with my family 👨‍👩‍👧. At first I honestly didnt want to go because Jamaica is too hot ☀️ and theres too many mosquitos 🦟. **EW.** Once I got there I was **committed** to try to enjoy myself. For the first week we stayed at RIU Hotel in Montego Bay. The hotel was really nice, the food 🍱 was great, the beach/pool 🏝 was always so lively, and the entertainment 🪩they had every night was fun. 
