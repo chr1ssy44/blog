@@ -1,3 +1,0 @@
-**Python Experiences**
-
-We started learning *Python* this month. We were firsted introduced to the *basic syntax* 🔡 of Python. We started making a todo application. Our application had to be able to add ➕ and remove 🚮 an item from the todo list. I started by creating a variable *todos* for my list of todos, *["do homework", "eat", "go to sleep"]*. Then, I printed out the current todos in the list. I saw a problem 😪 at first when the list would print the console with the brakets and the quotations. So, I searched up how to print the list with the brakets and I had to *print(", ".join(todos))*. **So that problem was fixed!🤭** I set variable x as the first input for the user to answer, *x = input("Would you like to add or remove a todo? ")* 
