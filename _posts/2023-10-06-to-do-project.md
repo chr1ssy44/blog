@@ -4,7 +4,7 @@ We started learning *Python* this month. We were firsted introduced to the *basi
 ```
 todos = ["do homework", "eat", "go to sleep"]. 
 ```
-Then, I printed out the current todos in the list. I saw a problem 😪 at first when the list would print the console with the brakets and the quotations. So, I searched up how to print the list with the brakets and I had to 
+Then, I printed out the current todos in the list. I saw a problem 😪 at first when the list would print the console with the brackets and the quotations. So, I searched up how to print the list with the brackets and I had to 
 ```
  print(", ".join(todos))
 ```
@@ -23,12 +23,20 @@ print("-------------------------------------------------")
 ```
 print("")
 ```
-Once the todo was added to the end of the list I moved on to letting the user be able to remove a todo.🙃 One again I used an if statement to **if x equals "remove" as a string**. One problem that occured when doing this is be able to let the index of the items in the list start from *1 instead of 0*. The user wouldn't know🤦🏽 that the index starts at 0 so I had to change that. I searched up a way to do that and came across the use of **range()**. 
+Once the todo was added to the end of the list I moved on to letting the user be able to remove a todo.🙃 Once again I used an if statement to **if x equals "remove" as a string**. One problem that occured when doing this is be able to let the index of the items in the list start from *1 instead of 0*. The user wouldn't know🤦🏽 that the index starts at 0 so I had to change that. I searched up a way to do that and came across the use of **range()**. 
 
 range
 :The *range()* function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
 
 I realized after a few attempts that **range** wouldn't be a good element for this process. 
 
+So I had asked my elbow partner for some help. They explained how to be ablt to start the index at 1 instead of 0.
+```
+if x == "remove":
+        z = int(input("Which # todo would you like to remove? "))
+        z -= 1
+        del todos[z]
+```
+This allowed the user to have a much *easier experience* with the application now that I fixed the problem.
 
 
